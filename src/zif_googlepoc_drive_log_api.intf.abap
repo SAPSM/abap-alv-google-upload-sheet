@@ -1,11 +1,6 @@
 "! <p>
 "! Interface to the logging API in the context of Google Drive.
 "! </p>
-"!
-"! <p>
-"! Author:  Sebastian Machhausen, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
 interface zif_googlepoc_drive_log_api
   public.
 
