@@ -45,7 +45,7 @@ class zcl_googlepoc_cert_validation definition
     constants c_pse_context type psecontext value `SSLC`.   "#EC NOTEXT
 
     "! The common name (cn) of the Google certificate to address.
-    constants c_google_cn type string value `CN=Google Internet Authority`. "#EC NOTEXT
+    constants c_google_cn type string value `Google`. "#EC NOTEXT
 
     "! The stored certificate.
     data mo_certificate type ref to cl_abap_x509_certificate.
@@ -93,7 +93,7 @@ class zcl_googlepoc_cert_validation implementation.
 
         loop at lt_certificates
         assigning field-symbol(<ls_certificate>)
-        where subject cp |*{ c_google_cn }*|.               "#EC NOTEXT
+        where subject cp |CN=*{ c_google_cn }*|.               "#EC NOTEXT
           data(lv_certificate_index) = sy-tabix.
           exit.
         endloop.
