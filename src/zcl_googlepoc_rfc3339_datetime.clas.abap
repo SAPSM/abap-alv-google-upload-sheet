@@ -3,11 +3,6 @@
 "! Date/Time values.
 "! </p>
 "!
-"! <p>
-"! Author:  Sebastian Machhausen, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
-"!
 "! See RFC 3339 at https://tools.ietf.org/html/rfc3339
 class zcl_googlepoc_rfc3339_datetime definition
   public

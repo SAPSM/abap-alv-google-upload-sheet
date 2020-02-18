@@ -4,11 +4,6 @@
 "! JSON format.
 "! </p>
 "!
-"! <p>
-"! Author:  Sebastian Machhausen, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
-"!
 "! See https://developers.google.com/drive/
 class zcl_googlepoc_drive_ui2_json definition
   public

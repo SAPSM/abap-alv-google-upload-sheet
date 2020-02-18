@@ -2,11 +2,6 @@
 "! Assistance class of the custom WDA Redirect Handler for an OAuth Redirect
 "! URI Workflow.
 "! </p>
-"!
-"! <p>
-"! Author:  Klaus-Dieter Scherer, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
 class zcl_salv_wd_google_redirect definition
   public
   create public
