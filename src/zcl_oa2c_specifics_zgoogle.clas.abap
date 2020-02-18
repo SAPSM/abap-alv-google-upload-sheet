@@ -2,11 +2,6 @@
 "! BAdI implementation of the OAuth 2.0 Google specific settings.
 "! </p>
 "!
-"! <p>
-"! Author:  Sebastian Machhausen, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
-"!
 "! See https://developers.google.com/drive/
 class zcl_oa2c_specifics_zgoogle definition
   public
