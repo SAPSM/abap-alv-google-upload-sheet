@@ -6,11 +6,6 @@
 "! Google Server.
 "! </p>
 "!
-"! <p>
-"! Author:  Sebastian Machhausen, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
-"!
 "! See https://developers.google.com/drive/
 class zcl_googlepoc_cert_validation definition
   public
