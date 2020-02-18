@@ -1,11 +1,6 @@
 "! <p>
 "! Example BAdi-Implementation <em>if_salv_jpb_badi_data_publish</em>.
 "! </p>
-"!
-"! <p>
-"! Author:  Klaus-Dieter Scherer, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
 class zcl_salv_enh_google_sheets definition
   public
   create public
