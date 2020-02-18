@@ -4,10 +4,6 @@
 "! </p>
 "!
 "! <p>
-"! Uses the internal <em>WDR JSON Library</em>.
-"! </p>
-"!
-"! <p>
 "! Author:  Sebastian Machhausen, SAP SE <br/>
 "! Version: 0.0.4<br/>
 "! </p>
