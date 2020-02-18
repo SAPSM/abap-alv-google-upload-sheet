@@ -3,11 +3,6 @@
 "! respectively received from the Google Drive REST API.
 "! </p>
 "!
-"! <p>
-"! Author:  Sebastian Machhausen, SAP SE <br/>
-"! Version: 0.0.4<br/>
-"! </p>
-"!
 "! See https://developers.google.com/drive/
 interface zif_googlepoc_drive_json_api
   public.
