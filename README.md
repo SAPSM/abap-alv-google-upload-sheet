@@ -35,7 +35,7 @@ You can ask your questions concerning this functionality in the [SAP Community](
 You find an overview of all ALV questions under: [https://answers.sap.com/topics/alv.html](https://answers.sap.com/topics/alv.html).
 
 # License
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved.
 
 This file is licensed under the SAP SAMPLE CODE LICENSE AGREEMENT except as noted otherwise in the [LICENSE](LICENSE) file.
 
